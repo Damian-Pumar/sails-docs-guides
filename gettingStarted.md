@@ -6,7 +6,7 @@ Here you will find information for newbies
 Here are some links and exercises to help you get more familiar with node.js
 
 # New to MVC
-MVC is crazy.  Here are some links to get you started.  This is how Sails.js strays from your average MVC.
+MVC is crazy.  Here are some links to get you started.  This is how Sails.js strays from your average MVC.  BYAH
 
 # Understanding the Stack
 Sails uses this node.js middleware.  Here is how it all works with each other.
