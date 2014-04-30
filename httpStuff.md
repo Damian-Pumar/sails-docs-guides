@@ -1,7 +1,7 @@
 # HTTP Stuff
 Here are guides related to sails in the context of http
 
-# Serving Assets
+# Serving Asshats
 Here is how sails manages assets by default and how they are served to clients
 
 # Sails Router
